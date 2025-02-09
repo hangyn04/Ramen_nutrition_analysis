@@ -1,4 +1,5 @@
 # Ramen nutrition analysis
+* [Check out my dashboard video](https://drive.google.com/file/d/1LUduukOMEYFAIXTyNgzmFvhsWq6Qur2v/view?usp=share_link)
 * Ramen noodles are a popular and convenient food for many people, especially in Asian countries, offering a wide range of instant flavors such as seafood, chicken, and beef. However, the nutritional content of ramen often raises health concerns due to high levels of sodium, fat, and calories.
 * As a ramen enthusiast myself, I decided to conduct a detailed analysis of various ramen products to gain deeper insights into their nutritional composition and explore healthier consumption patterns. By leveraging real-world [dataset](https://drive.google.com/file/d/1HOw_Br93jB4znO9a6yOLJDBsxR4QRu5v/view?usp=sharing) from the **Nutritionix API**, this analysis categorizes ramen based on key nutritional factors such as calories, sodium, fat, and protein per serving.<br>
 **NOTE**: Since each product comes with varied serving sizes, I transformed the data into a consistent measure per gram and added automated columns for calories, sodium, fat, and protein per gram to standardize the comparisons<br>
